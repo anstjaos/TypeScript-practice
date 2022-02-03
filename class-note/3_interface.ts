@@ -53,7 +53,7 @@ interface Person {
     age: number;
 }
 
-interface Developer extends Person {
+ interface Developer extends Person {
     language: string;
 }
 
